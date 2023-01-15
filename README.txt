@@ -1,4 +1,4 @@
-Codes for the JASA paper "Interpretable Deep Dictionary Learning for Sound Speed Proles with Uncertainties" 
+Codes for the JASA paper "Interpretable Deep Dictionary Learning for Sound Speed Profiles with Uncertainties" 
 
 runexample.py:
 Load the trained model and run it on different test SSPs
